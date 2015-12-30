@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"redirect	function"
+			],
+			[
+				"login",
+				"loginsocial"
+			],
+			[
+				"templa",
+				"templates"
+			],
+			[
+				"v",
+				"views	module"
+			],
+			[
+				"dea",
+				"defaultfilters	module"
+			],
+			[
+				"conte",
+				"context_dict"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"co",
+				"conf"
+			],
+			[
+				"STA",
+				"STATIC_PATH"
+			],
+			[
+				"TEMPLA",
+				"TEMPLATE_PATH"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"T",
+				"TEMPLATES"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"the",
+				"theRightSide"
+			],
+			[
+				"firs",
+				"firstChild"
+			],
+			[
+				"th",
+				"theRightSide"
+			],
+			[
+				"las",
+				"lastSmile"
+			],
+			[
+				"left",
+				"leftSideImages"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"new",
+				"newImage"
+			],
+			[
+				"st",
+				"stego"
+			],
+			[
+				"set",
+				"setRed"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"pix",
+				"pixchange"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"you",
+				"your"
+			],
+			[
+				"tag",
+				"target"
+			],
+			[
+				"gue",
+				"guess_color"
+			],
+			[
+				"str",
+				"string2"
+			],
+			[
+				"string",
+				"string1"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"tar",
+				"target_index"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"cl",
+				"colors"
+			],
+			[
+				"che",
+				"checkbox-label"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"iron",
+				"iron-image"
+			],
+			[
+				"get",
+				"getCurrentData"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"paper",
+				"paper-drawer-panel"
+			],
+			[
+				"rat",
+				"rating-circle"
+			],
+			[
+				"rati",
+				"rating-hover"
+			],
+			[
+				"ratin",
+				"rating-container"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"ra",
+				"rating-container"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"fo",
+				"foundElement"
+			],
+			[
+				"jQ",
+				"jQueryObject"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"deta",
+				"detail"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"questio",
+				"question"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"Cho",
+				"ChoiceInLine"
+			],
+			[
+				"admi",
+				"admin"
+			],
+			[
+				"Questio",
+				"QuestionAdmin"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"djaa",
+				"dajaxice_autodiscover"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"PRO",
+				"PROJECT_PATH"
+			],
+			[
+				"__",
+				"__file__"
+			],
+			[
+				"Con",
+				"contact"
+			],
+			[
+				"html",
+				"html_content"
+			],
+			[
+				"to",
+				"to_email"
+			],
+			[
+				"cn",
+				"contact_message"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"form",
+				"form_email"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"con",
+				"contact_message"
+			],
+			[
+				"from",
+				"from_email"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"set syntax: h",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog"
+	],
+	"file_history":
+	[
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/settings.py",
+		"/home/josue/Dropbox/projects/django/devcode/loginsocial/templates/principal/index.html",
+		"/home/josue/Dropbox/projects/django/devcode/loginsocial/loginsocial/apps/principal/views.py",
+		"/home/josue/Dropbox/projects/django/devcode/loginsocial/loginsocial/urls.py",
+		"/home/josue/Dropbox/projects/django/devcode/loginsocial/loginsocial/settings.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/blog20min/settings.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/blog20min/apps/blog/models.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/blog20min/urls.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/blog20min/apps/blog/views.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/blog20min/apps/blog/admin.py",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/templates/blog/index.html",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/templates/blog/entrada_detail.html",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/templates/blog/templates/index.html",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/templates/blog/templates/entrada_detail.html",
+		"/home/josue/Dropbox/projects/django/devcode/blog20min/requirements.txt",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/manage.py",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/taskbuster/test.py",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/taskbuster/settings/base.py",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/taskbuster/templates/base.html",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/taskbuster/settings/testing.py",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/taskbuster/urls.py",
+		"/home/josue/Dropbox/projects/django/taskbuster_project/functional_tests/test_allauth.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/settings/testing.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/settings/base.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/settings/development.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/functional_tests/test_all_users.py",
+		"/home/josue/Descargas/Vectores_Math.html",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/docs/index.rst",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/docs/requirements.rst",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/docs/quick_start.rst",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/requirements/testing.txt",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/requirements/development.txt",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/templates/base.html",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/urls.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/views.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/locale/es/LC_MESSAGES/django.po",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/htmlcov/taskbuster_settings_base_py.html",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/templates/humans.txt",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/templates/robots.txt",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/static/css/main.css",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/test.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/functional_tests/__init__.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/settings/production.py",
+		"/home/josue/Dropbox/projects/Django/taskbuster_project/taskbuster/settings/staging.py",
+		"/home/josue/Escritorio/code/taskbuster/taskbuster_project/taskbuster_project",
+		"/home/josue/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/josue/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/josue/Escritorio/projectfolder",
+		"/home/josue/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/index.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/rango/urls.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/register.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/rango/views.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/login.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/rango/models.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/rango/forms.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/rango/admin.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/tango_with_django_project/settings.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/category.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/add_category.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/add_page.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/templates/rango/about.html",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/populate_rango.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/tango_with_django_project/tango_with_django_project/urls.py",
+		"/home/josue/Escritorio/code/tango_with_django_18/.gitignore",
+		"/home/josue/Escritorio/editor.html",
+		"/home/josue/Dropbox/code/Video2Brain/Bootstrap3/mi_primera_pagina/index.html",
+		"/home/josue/Dropbox/code/Video2Brain/Bootstrap3/mi_primera_pagina/css/style.css",
+		"/home/josue/Vídeos/Video2Brain/Front-End/CSS/Bootstrap 3/archivos_base/archivos_base/20_iconos/index.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/Marcos y Herramientas Interfaz de Usuario Front-End Web/Week 1/conFusion/index.html",
+		"/home/josue/Descargas/index.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/part3.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/part4.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/part2.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/03_Advanced_JavaScript/3-06_an_example_dom_project/3-06_an_example_dom_project/01_dom_colorful_pattern_js.js",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/03_Advanced_JavaScript/3-06_an_example_dom_project/3-06_an_example_dom_project/01_dom_colorful_pattern.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/part1.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/index.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task3/code.js",
+		"/home/josue/Escritorio/mathml-test.html",
+		"/home/josue/Descargas/steganography.js",
+		"/home/josue/Descargas/Apps.txt",
+		"/home/josue/Descargas/steganography.html",
+		"/home/josue/Dropbox/Coursera/Java Programming: An Introduction to Software/Duke: Programming and the Web for Beginners/Week 3/Learning to program in Javascript/andrew-rgb.js",
+		"/home/josue/Dropbox/Coursera/Java Programming: An Introduction to Software/Duke:Programación y Red para Principiantes/Week 2/Week2-PeerReview/ai.html",
+		"/home/josue/Dropbox/Coursera/Java Programming: An Introduction to Software/Duke:Programación y Red para Principiantes/Week 2/Lesson4-BuildingWebPage/peaches.html",
+		"/home/josue/Dropbox/Coursera/Java Programming: An Introduction to Software/Duke:Programación y Red para Principiantes/Week 2/Week2-PeerReview/index.html",
+		"/home/josue/Dropbox/Coursera/Java Programming: An Introduction to Software/Duke:Programación y Red para Principiantes/Week 2/Lesson4-BuildingWebPage/peaches.css",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task1/part3.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task2/color_guessing_game.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task2/color_guessing_game.js",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task2/part1.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/task2/part2.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/02_Introduction_to_JavaScript/2-06_an_example_javascript_project_guessing_game/06_an_example_javascript_project_guessing_game/2-6-01_an_example_javascript_project/01_js_guessing_game.js",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/02_Introduction_to_JavaScript/2-06_an_example_javascript_project_guessing_game/06_an_example_javascript_project_guessing_game/2-6-01_an_example_javascript_project/01_html_guessing_game.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/02_Introduction_to_JavaScript/2-06_an_example_javascript_project_guessing_game/06_an_example_javascript_project_guessing_game/2-6-01_an_example_javascript_project/02_isnan_example.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/assigment1/part1.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/assigment1/part2.html",
+		"/home/josue/Dropbox/Coursera/Full Stack Web Development/HTML, CSS y JavaScript/assigment1/index.html",
+		"/home/josue/Documentos/Coursera/Full Stack Web Development/Marcos y Herramientas Interfaz de Usuario Front-End Web/Week 1/conFusion/index.html",
+		"/home/josue/Documentos/Coursera/Full Stack Web Development/Marcos y Herramientas Interfaz de Usuario Front-End Web/Week 1/conFusion/css/mystyles.css",
+		"/home/josue/Projects/PreBeta/Polymer/MyWeather/index.html",
+		"/home/josue/Projects/PreBeta/Polymer/MyWeather/bower_components/joshi-weather/joshi-weather.html",
+		"/home/josue/Projects/PreBeta/Polymer/MyWeather/bower_components/joshi-weather/joshi-weather.css",
+		"/home/josue/Projects/PreBeta/Polymer/HelloWorld/index.html",
+		"/home/josue/Projects/PreBeta/Polymer/HelloWorld/bower_components/custom-card/custom-card.css",
+		"/home/josue/Projects/PreBeta/Polymer/HelloWorld/bower_components/custom-card/custom-card.html",
+		"/home/josue/Projects/PreBeta/Polymer/HelloWorld/bower_components/index.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/add-remove-class.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/modify-attr.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/Module 1/Laboratorio 1/lab1.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/Module 1/Laboratorio 1/peer3.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/modify-text-html.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index5.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index7.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index6.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/inex5.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index4.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index3.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index2.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/htmlpage.html",
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/HtmlPage.html",
+		"/home/josue/Escritorio/turing/code/polls-tut/mysite/urls.py",
+		"/home/josue/Escritorio/turing/code/polls-tut/mysite/settings.py",
+		"/home/josue/Escritorio/turing/code/polls-tut/polls/views.py",
+		"/home/josue/Escritorio/turing/code/polls-tut/app/views.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AUTH",
+			"collapse",
+			"ACCOUNT_USERNAME_REQUIRED",
+			"authe",
+			"script",
+			"locale",
+			"static",
+			"”",
+			"“",
+			"authenticate",
+			"login",
+			"login.",
+			"user_login",
+			"login",
+			"user_login",
+			"print ",
+			"register",
+			"print ",
+			"	",
+			"hidden",
+			"pages",
+			"add_cat",
+			"print",
+			"static",
+			"base_dir",
+			"the",
+			"photo",
+			"age",
+			"class",
+			"http",
+			"height",
+			"checkbox-la",
+			"label",
+			"$",
+			"    ",
+			"	",
+			"app",
+			"find",
+			"root",
+			"media",
+			"inicio",
+			"\"\"\"",
+			"jumbo",
+			"red",
+			"joshi.alonzo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"    ",
+			"https",
+			"    ",
+			"\\t",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hacky_blog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"url",
+				"blog20min/urls.py"
+			],
+			[
+				"admi",
+				"blog20min/apps/blog/admin.py"
+			],
+			[
+				"base.p",
+				"taskbuster/settings/base.py"
+			],
+			[
+				"mana",
+				"manage.py"
+			],
+			[
+				"taskmanager/mo",
+				"taskbuster/apps/taskmanager/models.py"
+			],
+			[
+				"settings/base",
+				"taskbuster/settings/base.py"
+			],
+			[
+				"taskbuster/urls.py",
+				"taskbuster/urls.py"
+			],
+			[
+				"settings/testing.py",
+				"taskbuster/settings/testing.py"
+			],
+			[
+				"taskbuster/templates/base.html",
+				"taskbuster/templates/base.html"
+			],
+			[
+				"settings/",
+				"taskbuster/settings/base.py"
+			],
+			[
+				"settings/de",
+				"taskbuster/settings/development.py"
+			],
+			[
+				"djan",
+				"taskbuster/locale/es/LC_MESSAGES/django.po"
+			],
+			[
+				"inde",
+				"taskbuster/templates/taskbuster/index.html"
+			],
+			[
+				"base",
+				"taskbuster/templates/base.html"
+			],
+			[
+				"func",
+				"functional_tests/test_all_users.py"
+			],
+			[
+				"test",
+				"taskbuster/test.py"
+			],
+			[
+				"settings/bas",
+				"taskbuster/settings/base.py"
+			],
+			[
+				"settings",
+				"htmlcov/taskbuster_settings_base_py.html"
+			],
+			[
+				"index",
+				"tango_with_django_project/templates/rango/index.html"
+			],
+			[
+				"view",
+				"tango_with_django_project/rango/views.py"
+			],
+			[
+				"for",
+				"tango_with_django_project/rango/forms.py"
+			],
+			[
+				"sett",
+				"tango_with_django_project/tango_with_django_project/settings.py"
+			],
+			[
+				"models",
+				"tango_with_django_project/rango/models.py"
+			],
+			[
+				"setting",
+				"tango_with_django_project/tango_with_django_project/settings.py"
+			],
+			[
+				"rango/url",
+				"tango_with_django_project/rango/urls.py"
+			],
+			[
+				"categ",
+				"tango_with_django_project/templates/rango/category.html"
+			],
+			[
+				"add_pa",
+				"tango_with_django_project/templates/rango/add_page.html"
+			],
+			[
+				"forms",
+				"tango_with_django_project/rango/forms.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
