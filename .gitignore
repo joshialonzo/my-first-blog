@@ -36,3 +36,4 @@ pyvenv.cfg
 
 # Django files
 db.sqlite3
+hacky_blog/apps/blog/migrations/
