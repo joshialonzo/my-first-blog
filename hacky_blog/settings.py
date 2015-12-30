@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'hacky_blog.apps.blog',
 )
 
 MIDDLEWARE_CLASSES = (
