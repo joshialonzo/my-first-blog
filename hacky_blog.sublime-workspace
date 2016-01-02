@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"get_object_or_404〔module〕"
+			],
+			[
+				"get_",
+				"get_object_or_404	function"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"Fo",
+				"ForeignKey	class"
+			],
+			[
+				"time",
+				"timezone	module"
+			],
+			[
 				"re",
 				"redirect	function"
 			],
@@ -124,14 +172,6 @@
 				"background-image"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
-				"font",
-				"font-family"
-			],
-			[
 				"bor",
 				"border-collapse"
 			],
@@ -190,14 +230,6 @@
 			[
 				"iron",
 				"iron-image"
-			],
-			[
-				"get",
-				"getCurrentData"
-			],
-			[
-				"pos",
-				"position"
 			],
 			[
 				"paper",
@@ -340,10 +372,6 @@
 				"full_name"
 			],
 			[
-				"con",
-				"contact_message"
-			],
-			[
 				"from",
 				"from_email"
 			]
@@ -412,11 +440,28 @@
 	},
 	"expanded_folders":
 	[
-		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog"
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/__pycache__",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps"
 	],
 	"file_history":
 	[
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/urls.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/admin.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/forms.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/models.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/templates/blog/post_detail.html",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/templates/blog/post_edit.html",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/views.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/templates/blog/base.html",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/templates/blog/post_list.html",
 		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/settings.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/static/css/blog.css",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/blog/urls.py",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/templates/post_edit.html",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/static/css/blog.css",
+		"/home/josue/Dropbox/projects/django/hacky_project/hacky_blog/hacky_blog/apps/__init__.py",
 		"/home/josue/Dropbox/projects/django/devcode/loginsocial/templates/principal/index.html",
 		"/home/josue/Dropbox/projects/django/devcode/loginsocial/loginsocial/apps/principal/views.py",
 		"/home/josue/Dropbox/projects/django/devcode/loginsocial/loginsocial/urls.py",
@@ -529,25 +574,11 @@
 		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/modify-attr.html",
 		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/Module 1/Laboratorio 1/lab1.html",
 		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/Module 1/Laboratorio 1/peer3.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/modify-text-html.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index5.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index7.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index6.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/inex5.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index4.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index3.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/index2.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/htmlpage.html",
-		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/HtmlPage.html",
-		"/home/josue/Escritorio/turing/code/polls-tut/mysite/urls.py",
-		"/home/josue/Escritorio/turing/code/polls-tut/mysite/settings.py",
-		"/home/josue/Escritorio/turing/code/polls-tut/polls/views.py",
-		"/home/josue/Escritorio/turing/code/polls-tut/app/views.py"
+		"/home/josue/Documentos/mooc/Microsoft: DEV208x Introduction to jQuery/modify-text-html.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -561,6 +592,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"base_",
 			"AUTH",
 			"collapse",
 			"ACCOUNT_USERNAME_REQUIRED",
@@ -683,8 +715,20 @@
 		"selected_items":
 		[
 			[
+				"for",
+				"hacky_blog/apps/blog/forms.py"
+			],
+			[
+				"ur",
+				"hacky_blog/apps/blog/urls.py"
+			],
+			[
+				"edi",
+				"hacky_blog/templates/blog/post_edit.html"
+			],
+			[
 				"url",
-				"blog20min/urls.py"
+				"hacky_blog/apps/blog/urls.py"
 			],
 			[
 				"admi",
@@ -761,10 +805,6 @@
 			[
 				"view",
 				"tango_with_django_project/rango/views.py"
-			],
-			[
-				"for",
-				"tango_with_django_project/rango/forms.py"
 			],
 			[
 				"sett",
